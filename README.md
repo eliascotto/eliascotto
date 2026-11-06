@@ -30,6 +30,10 @@ Relevant personal projects grouped by programming language.
 - [TryClojure](https://github.com/eliascotto/tryclojure) Clojure live REPL tutorial.
 - [Lucifero](https://github.com/eliascotto/lucifero) Simple static website generator written in Clojure.
 
+## Ruby
+
+- [RetroFeed](https://github.com/eliascotto/retrofeed) A web reader to bring RSS and Instapaper together.
+
 ## CSS
 
 - [shades-of-purple-obsidian](https://github.com/eliascotto/shades-of-purple-obsidian) Shades of Purple theme for Obsidian.
