@@ -1,5 +1,3 @@
-# Public projects
-
 Relevant personal projects grouped by programming language.
 
 ## Js/Ts
